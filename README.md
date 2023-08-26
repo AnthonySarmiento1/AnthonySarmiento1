@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Anthony!</h1>
+<h3 align="center">Aspiring CyberSecurity Professional</h3>
 
-
-<h1>Hi, I'm Anthony! <br/>
+<p align="left">
+</p>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
