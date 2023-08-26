@@ -7,7 +7,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab/tree/main)
-  - [Vulnerability Management with OpenVAS](https://github.com/AnthonySarmiento1/VulnerabilityManagementLab)
+  - [Vulnerability Management with Nessus Essentials](https://github.com/AnthonySarmiento1/VulnerabilityManagementLab)
     
 <h2>📄 Certifications </h2>
 
