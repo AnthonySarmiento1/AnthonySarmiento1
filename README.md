@@ -1,6 +1,6 @@
 
 
-<h1>👋Hi, I'm Anthony! <br/>
+<h1>Hi, I'm Anthony! <br/>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
