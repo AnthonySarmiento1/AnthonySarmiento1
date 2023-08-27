@@ -7,7 +7,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab/tree/main)
-  - [Analyzing Packets With WireShark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
+  - [Analyzing Packets With Wireshark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
     
 <h2>📄 Certifications </h2>
 
