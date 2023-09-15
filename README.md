@@ -7,7 +7,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab/tree/main)
-  - [Using SQL to investigate potential security issues] WIP
+  - [Using SQL To Investigate Potential Security Issues] WIP
   - [Malware Analysis] WIP 
   - [Analyzing Packets With Wireshark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
     
