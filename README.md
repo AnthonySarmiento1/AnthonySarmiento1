@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<h2>👨‍💻 Networking & CyberSecurity Projects:</h2>
+<h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
 
   - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab)
 <!-- - [Using SQL To Investigate Potential Security Issues](https://github.com/AnthonySarmiento1/SQL) WIP--> 
