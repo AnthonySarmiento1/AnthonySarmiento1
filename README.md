@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anthony!</h1>
 <h3 align="center">Aspiring IT Professional</h3>
 
+<ul>
+  <li>☁ Conquering All Domains of IT.</li>
+  
+  <li>🧠 I'm actively studying and improving my skillset</li>
+ 
+  <li>🗃 I'm currently working on Certifications.</li>
+ 
+</ul>
+
+  
 <p align="left">
 </p>
 
