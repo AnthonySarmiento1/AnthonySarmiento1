@@ -13,7 +13,7 @@
     
 <h2>📄 Certifications </h2>
 
-- [Google CyberSecurity](https://coursera.org/share/5709c52226f6a4e7a6cf4d5d7be77e49)
+- [Google Cybersecurity](https://coursera.org/share/5709c52226f6a4e7a6cf4d5d7be77e49)
 
 <h2> 🤳 Connect with me:</h2>
 
