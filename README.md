@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring IT Professional</h3>
 
 <ul>
-  <li>☁ Conquering All Domains of IT.</li>
+  <li>☁  Conquering All Domains of IT.</li>
   
   <li>🧠 I'm actively studying and improving my skillset</li>
  
