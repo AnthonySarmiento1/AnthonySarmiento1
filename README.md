@@ -25,8 +25,8 @@
     
 <h2>📄 Certifications </h2>
 
-- [Google’s Coursera Cybersecurity Professional](https://coursera.org/share/5709c52226f6a4e7a6cf4d5d7be77e49)
-- [Google’s Coursera IT Support](https://coursera.org/share/bc5c9e60537ddaf46db29336120f13b6)
+- [Google’s Coursera Cybersecurity Professional](https://www.credly.com/badges/cd8f71c5-4884-49ca-b60f-09f6fe07ab84/public_url)
+- [Google’s Coursera IT Support](https://www.credly.com/badges/834464de-391a-428a-906b-e60fd8d00ad0/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
