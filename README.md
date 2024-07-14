@@ -34,3 +34,7 @@
 [<img align="left" alt="AnthonySarmiento| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/AnthonySarmiento1
+
+<br>
+
+<h1 align="center"><IMG SRC="https://user-images.githubusercontent.com/111719615/210657996-ffe8fe41-b389-492c-8ddc-05cde142e675.gif" width="225" height="180"></h1>
