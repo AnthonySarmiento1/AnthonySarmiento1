@@ -37,4 +37,4 @@
 
 <br>
 
-<h1 align="center"><IMG SRC="https://user-images.githubusercontent.com/111719615/210657996-ffe8fe41-b389-492c-8ddc-05cde142e675.gif" width="225" height="180"></h1>
+<h1 align="center"><IMG SRC="https://user-images.githubusercontent.com/111719615/210657996-ffe8fe41-b389-492c-8ddc-05cde142e675.gif" width="150" height="120"></h1>
