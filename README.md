@@ -31,9 +31,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AnthonySarmiento| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://linkedin.com/in/AnthonySarmiento1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--- [<img align="left" alt="AnthonySarmiento| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/AnthonySarmiento1
+---> 
+
+
 
 <br>
 
