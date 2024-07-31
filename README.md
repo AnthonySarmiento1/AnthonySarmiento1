@@ -18,9 +18,9 @@
 <h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
 
   - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab)
-<!-- - [Using SQL To Investigate Potential Security Issues](https://github.com/AnthonySarmiento1/SQL) WIP--> 
-<!-- - [Malware Analysis] WIP -->
-  - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory)
+<!-- -/// - [Using SQL To Investigate Potential Security Issues](https://github.com/AnthonySarmiento1/SQL) WIP --> 
+<!-- -/// - [Malware Analysis](https://github.com/AnthonySarmiento1/MalwareAnalysis) WIP 
+ <!-- -///  - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory) -->
     
   - [Analyzing Packets With Wireshark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
     
