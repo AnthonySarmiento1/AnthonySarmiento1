@@ -21,7 +21,8 @@
 <!-- -/// - [Using SQL To Investigate Potential Security Issues](https://github.com/AnthonySarmiento1/SQL) WIP --> 
 <!-- -/// - [Malware Analysis](https://github.com/AnthonySarmiento1/MalwareAnalysis) WIP 
  <!-- -///  - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory) -->
-    
+  - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory)
+
   - [Analyzing Packets With Wireshark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
     
 <h2>📄 Certifications </h2>
