@@ -27,8 +27,9 @@
     
 <h2>📄 Certifications </h2>
 
-- [Google’s Coursera Cybersecurity Professional](https://www.credly.com/badges/cd8f71c5-4884-49ca-b60f-09f6fe07ab84/public_url)
-- [Google’s Coursera IT Support Professional](https://www.credly.com/badges/834464de-391a-428a-906b-e60fd8d00ad0/public_url)
+- [Google’s Cybersecurity Professional](https://www.credly.com/badges/cd8f71c5-4884-49ca-b60f-09f6fe07ab84/public_url)
+- [Google’s IT Support Professional](https://www.credly.com/badges/834464de-391a-428a-906b-e60fd8d00ad0/public_url)
+- CompTIA Network+
 - Nevada CTE Cybersecurity Certificate
 - Nevada CTE IT Networking Certificate
 
