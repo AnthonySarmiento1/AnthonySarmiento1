@@ -15,16 +15,21 @@
 <p align="left">
 </p>
 
-<h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Networking Projects:</h2>
 
  
 <!-- -/// - [Using SQL To Investigate Potential Security Issues](https://github.com/AnthonySarmiento1/SQL) WIP --> 
-<!-- -/// - [Malware Analysis](https://github.com/AnthonySarmiento1/MalwareAnalysis) WIP 
- <!-- -///  - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory) -->
+<!-- -/// - [Malware Analysis](https://github.com/AnthonySarmiento1/MalwareAnalysis) WIP -->
+
   - [Azure Active Directory User Management](https://github.com/AnthonySarmiento1/AzureActiveDirectory)
-  - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab)
+
   - [Analyzing Packets With Wireshark](https://github.com/AnthonySarmiento1/WireSharkPacketAnalysis)
     
+  <h2>🔐Cybersecurity Projects:</h2>
+  
+  - [Creating A SOC & Defending Attacks](https://github.com/AnthonySarmiento1/SOCDefenseLab)
+
+  
 <h2>📄 Certifications </h2>
 
 - [Google’s Cybersecurity Professional](https://www.credly.com/badges/cd8f71c5-4884-49ca-b60f-09f6fe07ab84/public_url)
